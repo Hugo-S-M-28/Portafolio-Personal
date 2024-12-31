@@ -107,7 +107,7 @@ El proyecto está organizado en las siguientes carpetas y archivos:
 ## Capturas de Pantalla
 
 <p align="center">
-     <img width="600" height="600"  src="captura Portafolio.png">
+     <img width="600" height="600"  src="captura_Portafolio.png">
 </p>
 
 ---
