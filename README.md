@@ -7,9 +7,9 @@
 
 ## Descripción del Proyecto
 
-Este proyecto es una herramienta fundamental en el mundo de la tecnología: un **portafolio personal**. Diseñado para destacar tus habilidades, experiencia y proyectos, el portafolio actúa como tu carta de presentación profesional. A través de este desafío, podrás aplicar y demostrar los conocimientos adquiridos, creando una aplicación funcional y visualmente atractiva.
+Este proyecto es una herramienta fundamental en el mundo de la tecnología: un **portafolio personal**. un proyecto que he diseñado y desarrollado para mostrar mis habilidades, experiencia y los proyectos en los que he trabajado. el portafolio actúa como tu carta de presentación profesional.
 
-Un portafolio bien diseñado puede marcar la diferencia en la búsqueda de oportunidades laborales, permitiendo a los reclutadores conocer tus capacidades técnicas y tu creatividad.
+Un portafolio bien diseñado puede marcar la diferencia en la búsqueda de oportunidades laborales, permitiendo a los reclutadores conocer tus capacidades técnicas y tu creatividad. Este desafío fue una oportunidad para poner en práctica todo lo que he aprendido, creando una página funcional, visualmente atractiva y adaptable a diferentes dispositivos.
 
 ---
 
@@ -49,23 +49,22 @@ El proyecto está organizado en las siguientes carpetas y archivos:
 1. **Menú de Navegación Lateral:**
    - Logo y título del portafolio.
    - Enlaces a las principales secciones: Sobre mí, Habilidades, Aficiones, Formación y Proyectos.
-   - Información de contacto con enlaces a GitHub y LinkedIn.
+   - Información de contacto con accesos directos a mis perfiles de LinkedIn y GitHub.
 
 2. **Sección "Sobre mí":**
-   - Descripción personal y profesional que destaca tus fortalezas y objetivos.
+   - Aquí comparto un poco de mi historia, mis intereses y mis objetivos profesionales. Es una forma de presentarme y mostrar quién soy más allá de mis habilidades técnicas.
 
 3. **Sección de Habilidades:**
-   - Lista visualmente atractiva de tus competencias técnicas, con íconos representativos.
+   - En esta sección destaco las tecnologías y herramientas que domino. Presento mis competencias de una manera visualmente atractiva para que sea fácil identificarlas.
 
 4. **Formación Académica:**
-   - Resumen de tu educación y certificaciones, incluyendo logos de instituciones relevantes.
+   - Un resumen de mi trayectoria educativa y los cursos relevantes que he completado, como certificaciones de plataformas reconocidas.
 
 5. **Proyectos:**
-   - Espacio dedicado para mostrar ejemplos de trabajos realizados, como un encriptador de texto.
-   - Enlaces a repositorios y capturas de pantalla de los proyectos.
+   - Espacio dedicado para mostrar ejemplos de los trabajos que he realizado. Aquí puedes explorar lo que he creado, con enlaces a los repositorios en GitHub y capturas de pantalla para que veas cómo lucen.
 
 6. **Responsividad:**
-   - Diseñado para adaptarse a diferentes dispositivos, como móviles, tabletas y computadoras.
+   - Mi portafolio se ajusta automáticamente a dispositivos móviles, tabletas y computadoras. Esto asegura que puedas verlo cómodamente desde cualquier lugar.
 
 ---
 
@@ -100,7 +99,7 @@ El proyecto está organizado en las siguientes carpetas y archivos:
 ## Tecnologías Utilizadas
 
 - **HTML5:** Para la estructura del portafolio.
-- **SCSS/CSS:** Para el diseño y estilizado.
+- **CSS:** Para el diseño y estilizado.
 - **JavaScript:** Para agregar funcionalidad interactiva.
 
 ---
@@ -113,25 +112,9 @@ El proyecto está organizado en las siguientes carpetas y archivos:
 
 ---
 
-## Contribución
-
-Si deseas contribuir a este proyecto, por favor sigue los pasos a continuación:
-
-1. Haz un fork del repositorio.
-2. Crea una rama para tu nueva funcionalidad o corrección:
-
-   ```bash
-   git checkout -b nueva-funcionalidad
-   ```
-
-3. Realiza tus cambios y confirma los commits.
-4. Envía un pull request para revisión.
-
----
-
 ## Contacto
 
-Si tienes preguntas o comentarios, no dudes en contactarme:
+Si te interesa saber más sobre mi trabajo, tienes alguna pregunta o comentarios, no dudes en contactarme:
 
 - **LinkedIn:** [Hugo Sánchez Milán](https://www.linkedin.com/in/hugo-s%C3%A1nchez-mil%C3%A1n-197b81278/)
 - **GitHub:** [Hugo-S-M-28](https://github.com/Hugo-S-M-28)
@@ -153,4 +136,3 @@ Si tienes preguntas o comentarios, no dudes en contactarme:
 <p align="center" >
      <img width="600" heigth="600" src="https://user-images.githubusercontent.com/101413385/169064699-f268715c-822c-4335-b066-97a1bc1ea8e1.png">
 </p>
-
